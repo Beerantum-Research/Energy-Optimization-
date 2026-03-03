@@ -12,4 +12,6 @@ Light-cone preconditioning achieves a **+1.23% improvement** over the classical 
 (6861.27 vs. 6778.19), while community-based preconditioning slightly underperforms (-0.06%). This demonstrates that quantum-derived correlations for all edges—especially inter-community
 bridges—provide unique structural guidance inaccessible to classical heuristics alone.
 
-All the details is founded in Technical report (Rigetti_challenge_Beerantum.pdf)
+All the details is founded in 
+- Technical report : `Rigetti_challenge_Beerantum.pdf`
+- Code Notebook: `Rigetti_challenge_Beerantum.ipynb`
